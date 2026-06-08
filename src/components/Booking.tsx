@@ -45,16 +45,16 @@ export default function Booking() {
                   </div>
                   <div>
                     <div className="text-xs font-bold text-gray-400 uppercase">WhatsApp</div>
-                    <div className="text-gray-900 font-bold">+1 979-693-5130</div>
+                    <div className="text-gray-900 font-bold">+1 (800) 555-0199</div>
                   </div>
                 </a>
-                <a href="mailto:hello@texasavenuedental.co" className="flex items-center gap-4 group">
+                <a href="mailto:hello@smile123.com" className="flex items-center gap-4 group">
                   <div className="p-3 bg-blue-100 text-blue-600 rounded-2xl group-hover:scale-110 transition-transform">
                     <Mail className="w-6 h-6" />
                   </div>
                   <div>
                     <div className="text-xs font-bold text-gray-400 uppercase">Email Us</div>
-                    <div className="text-gray-900 font-bold">hello@texasavenuedental.co</div>
+                    <div className="text-gray-900 font-bold">hello@smile123.com</div>
                   </div>
                 </a>
               </div>
@@ -100,7 +100,7 @@ export default function Booking() {
                        <div className="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center">
                           <MapPin className="w-6 h-6 text-white" />
                        </div>
-                       <span className="font-bold text-gray-900">Texas.Ave Dental</span>
+                       <span className="font-bold text-gray-900">smile 123</span>
                     </div>
                  </div>
               </div>
@@ -113,15 +113,15 @@ export default function Booking() {
         <div className="flex justify-center items-center gap-3 mb-4">
            <div className="w-10 h-10 rounded-xl overflow-hidden shadow-sm flex items-center justify-center bg-white">
             <img 
-              src="https://img.freepik.com/premium-vector/dental-logo-template_1948-3818.jpg" 
-              alt="Texas.Ave Dental logo" 
+               src="https://img.freepik.com/premium-vector/dental-logo-template_1948-3818.jpg" 
+              alt="smile 123 logo" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
             />
            </div>
-           <span className="text-xl font-bold tracking-tighter text-gray-900">Texas.Ave Dental</span>
+           <span className="text-xl font-bold tracking-tighter text-gray-900">smile 123</span>
         </div>
-        <p className="text-xs text-gray-400">© 2024 Texas.Ave Dental Dental Care. All rights reserved.</p>
+        <p className="text-xs text-gray-400">© 2024 smile 123 Dental Care. All rights reserved.</p>
       </footer>
     </section>
   );

@@ -134,7 +134,7 @@ export default function SocialProof() {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-8">
               <div className="text-white">
-                <h3 className="text-2xl font-bold mb-2">The Texas.Ave Dental Team</h3>
+                <h3 className="text-2xl font-bold mb-2">The smile 123 Team</h3>
                 <p className="opacity-90">Expert care from dedicated professionals who love your smile.</p>
               </div>
             </div>

@@ -20,12 +20,12 @@ export default function Navbar() {
           <div className="w-10 h-10 rounded-xl overflow-hidden shadow-lg shadow-blue-100 flex items-center justify-center bg-white">
             <img 
               src="https://img.freepik.com/premium-vector/dental-logo-template_1948-3818.jpg" 
-              alt="Texas.Ave Dental logo" 
+              alt="smile 123 logo" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
             />
           </div>
-          <span className="text-2xl font-bold tracking-tighter text-gray-900">Texas.Ave Dental</span>
+          <span className="text-2xl font-bold tracking-tighter text-gray-900">smile 123</span>
         </div>
 
         <div id="nav-links" className="hidden md:flex items-center gap-10">
@@ -35,9 +35,9 @@ export default function Navbar() {
         </div>
 
         <div id="nav-actions" className="flex items-center gap-4">
-          <a href="tel:+19796935130" className="hidden sm:flex items-center gap-2 text-sm font-bold text-gray-900">
+          <a href="tel:+18005550199" className="hidden sm:flex items-center gap-2 text-sm font-bold text-gray-900">
             <Phone className="w-4 h-4 text-blue-600" />
-            +1 979-693-5130
+            +1 (800) 555-0199
           </a>
           <button 
             id="nav-cta"

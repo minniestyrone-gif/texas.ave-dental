@@ -33,7 +33,7 @@ export default function Hero() {
             transition={{ delay: 0.2 }}
             className="text-lg text-gray-600 max-w-sm leading-relaxed"
           >
-            At Texas.Ave Dental, we merge state-of-the-art technology with a compassionate, human approach. DR D. Rodriguez and his expert team are dedicated to crafting healthy, radiant smiles in a space that feels like home.
+            At smile 123, we merge state-of-the-art technology with a compassionate, human approach. DR D. Rodriguez and his expert team are dedicated to crafting healthy, radiant smiles in a space that feels like home.
           </motion.p>
 
           <motion.div 
